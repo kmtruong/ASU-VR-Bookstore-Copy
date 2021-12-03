@@ -1,0 +1,111 @@
+{
+	"inventory": [
+		{
+			"type": "book",
+			"item": [
+				{
+					"ID": "1",
+					"Name": "Introduction to Computer Sciences",
+					"Type": "Book",
+					"Weight": 3,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "Book for CS Freshman",
+					"Price": 100,
+					"Amount": 5,
+					"ToSpawn": 5
+				},
+				{
+					"ID": "2",
+					"Name": "Data Structures and Algorithms",
+					"Type": "Book",
+					"Weight": 3,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "Junior level CS book",
+					"Price": 200.50,
+					"Amount": 3,
+					"ToSpawn": 3
+				}
+			]
+		},
+
+		{
+			"type": "clothing",
+			"item": [
+				{
+					"ID": "3",
+					"Name": "ASU Hoodie",
+					"Type": "Clothing",
+					"Weight": 1,
+					"Size": "M",
+					"Dimension": "N/A",
+					"Info": "Maroon Hoodie with ASU logo",
+					"Price": 30,
+					"Amount": 3,
+					"ToSpawn": 3
+				},
+				{
+					"ID": "4",
+					"Name": "ASU Beanie",
+					"Type": "Clothing",
+					"Weight": 1,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "Maroon beanie with ASU logo",
+					"Price": 25,
+					"Amount": 0,
+					"ToSpawn": 0
+				}
+			]
+		},
+
+		{
+			"type": "office",
+			"item": [
+				{
+					"ID": "5",
+					"Name": "TI-84 Graphing Calculator",
+					"Type": "Office",
+					"Weight": 0.2,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "Silver color edition",
+					"Price": 100,
+					"Amount": 2,
+					"ToSpawn": 2
+				},
+				{
+					"ID": "6",
+					"Name": "Lab Notebook",
+					"Type": "Office",
+					"Weight": 1,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "8.5x11",
+					"Price": 5,
+					"Amount": 10,
+					"ToSpawn": 10
+				}
+			]
+		},
+
+		{
+			"type": "souvenir",
+			"item": [
+				{
+					"ID": "7",
+					"Name": "ASU Mug",
+					"Type": "Souvenir",
+					"Weight": 1.5,
+					"Size": "N/A",
+					"Dimension": "N/A",
+					"Info": "32 Oz Maroon Cup with ASU Logo",
+					"Price": 15,
+					"Amount": 3,
+					"ToSpawn": 3
+				}
+			]
+		}
+	]
+}
